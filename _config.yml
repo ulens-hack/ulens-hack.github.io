@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CCA Microlensing Hack Week 2019
-email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Webpage for the microlensing hack week at the CCA, January 2019.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -23,7 +22,7 @@ github_username:  ulens-hack
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
