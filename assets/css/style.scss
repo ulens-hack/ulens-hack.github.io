@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#banner {
+  background: #ffcc00;
+  border: 1px solid #f0b500;
+}
+#banner .button {
+    border: 1px solid #dba500;
+    background: linear_gradient(#ffe788, #ffce38);
+    background-color: #FFE788;
+    #banner .button:hover {
+      background: linear_gradient(#ffe788, #ffe788);
+      background-color: #ffeca0; }
+  #banner .fork {
+    background-color: #FFE788; }
+}
