@@ -23,6 +23,19 @@ Open problems include:
 
 See the [projects](/projects/) page for more detailed descriptions.
 
+# Logistics
+
+The Hack Session will be held at the Center for Computational
+Astrophysics in New York City
+(https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/). The
+first 3 days will be joint with the 2X Microlensing Workshop and will
+provide an introduction to outstanding problems and resources. The
+last two days will be devoted to hacking. A preliminary schedule is
+available [here](/schedule/).
+
+To register for the Conference (including the Hack Session), please
+visit the main conference website (TBD).
+
 # Useful links
 - The [Google Docs sheet](https://docs.google.com/document/d/1XviE8EQrYmBAgbucmlsP6APogf0_PFCnKwmNvHMzMAg/edit#).
 - The current [microlensing Data Challenge](http://microlensing-source.org/data-challenge/).
