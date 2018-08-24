@@ -1,6 +1,6 @@
 # CCA Microlensing Hack Week 2019
 
-Static website for the CCA microlensing hack week, January 2019. The source code here is automatically
+Static website for the CCA microlensing hack week, January 28, 2019 -- February 1, 2019. The source code here is automatically
 converted to HTML using [Jekyll](https://jekyllrb.com/docs/quickstart/) and lives at
 [ulens-hack.github.io](https://ulens-hack.github.io).
 
