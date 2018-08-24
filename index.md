@@ -41,3 +41,7 @@ visit the main conference website (TBD).
 - The current [microlensing Data Challenge](http://microlensing-source.org/data-challenge/).
 - More [information about the hack week](/about/).
 
+# Be a Nice Person
+
+Placeholder section for guidelines for behavior, collaboration, and
+attribution, etc.
