@@ -6,7 +6,7 @@ permalink: /schedule/
 
 # Schedule
 
-A very rough outline of the schedule for the 2X Microlensing Workshop
+A very rough outline of the schedule for the 23rd Microlensing Workshop
 and Hack Session.
 
 Hack Session participants are strongly encouraged to attend the full
