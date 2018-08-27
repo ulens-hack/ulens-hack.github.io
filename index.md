@@ -14,7 +14,10 @@ layout: default
 
 This hack session will focus on unsolved problems in modeling
 microlensing events. It will be held jointly with the annual
-microlensing workshop.
+microlensing workshop. The primary goal of the hack session is to
+engage people outside the traditional microlensing community in open
+problems in microlensing research.
+
 
 Open problems include:
 * How to efficiently search a complex (non-Gaussian) multi-variate parameter space.
