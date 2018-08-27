@@ -25,4 +25,10 @@ Paper: (/http://iopscience.iop.org/article/10.3847/1538-3881/aa911c/meta/)
 
 ## UKIRT
 
+Published events:
+[Database Name] - [Alternate Name(s)] - [Link to publication]
+
 ## KMTNet
+
+Published events:
+[Database Name] - [Alternate Name(s)] - [Link to publication]
