@@ -4,7 +4,17 @@ title: Projects
 permalink: /projects/
 ---
 
-# Projects
+# Project Ideas
+
+# Modeling Complex Events: General
+
+# Modeling Complex Events: Triple Lenses
+
+# Open Science Questions
+
+# Developing Tools
+
+-----------
 
 ## 1a. Map-making code
 
