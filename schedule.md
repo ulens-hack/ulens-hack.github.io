@@ -9,6 +9,13 @@ permalink: /schedule/
 A very rough outline of the schedule for the 2X Microlensing Workshop
 and Hack Session.
 
+Hack Session participants are strongly encouraged to attend the full
+conference. Tuesday and Wednesday in particular will focus on
+presentation of recent analytical (Tuesday) and theoretical
+(Wednesday) work. In these sessions, you will get to see additional
+examples of current methods and challenges in microlensing.
+
+
 |Monday||
 |------|-----|
 |9 AM - 4 PM | Conference: Reports from Surveys/Challenges faced by Future Missions|
