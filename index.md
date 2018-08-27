@@ -21,7 +21,10 @@ Open problems include:
 * How to weight degenerate solutions?
 * Efficient computational methods for solving the triple lens equation
 
-See the [projects](/projects/) page for more detailed descriptions.
+See the [projects](/projects/) page for more detailed descriptions. 
+
+The [resources](/resources/) page has a list of useful references
+including links to public tools and datasets.
 
 # Logistics
 
@@ -35,11 +38,6 @@ available [here](/schedule/).
 
 To register for the Conference (including the Hack Session), please
 visit the main conference website (TBD).
-
-# Useful links
-- The [Google Docs sheet](https://docs.google.com/document/d/1XviE8EQrYmBAgbucmlsP6APogf0_PFCnKwmNvHMzMAg/edit#).
-- The current [microlensing Data Challenge](http://microlensing-source.org/data-challenge/).
-- More [information about the hack week](/about/).
 
 # Be a Nice Person
 
