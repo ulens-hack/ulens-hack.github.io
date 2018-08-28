@@ -17,9 +17,11 @@ permalink: /resources/
 
 ## [MulensModel](https://github.com/rpoleski/MulensModel/)
 
-[Paper](https://arxiv.org/abs/1803.01003/)
+[Documentation](https://rpoleski.github.io/MulensModel/) includes a few tutorials. See also [examples/ directory](https://github.com/rpoleski/MulensModel/tree/master/examples) for codes that show how to fit the model, plot the model light curve, read data etc.
 
-[Latest stable version](https://github.com/rpoleski/MulensModel/releases/tag/v1.4.0/)
+[Latest release](https://github.com/rpoleski/MulensModel/releases/tag/v1.4.0/)
+
+[Paper](https://arxiv.org/abs/1803.01003/)
 
 ## [PyLIMA](https://github.com/ebachelet/pyLIMA/)
 
