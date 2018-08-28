@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Schedule
+permalink: /schedule/
 ---
 
 [Home](/home/)
