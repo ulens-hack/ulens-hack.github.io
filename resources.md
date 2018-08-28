@@ -10,6 +10,8 @@ permalink: /resources/
 - The [Google Docs sheet](https://docs.google.com/document/d/1XviE8EQrYmBAgbucmlsP6APogf0_PFCnKwmNvHMzMAg/edit#).
 - The current [microlensing Data Challenge](http://microlensing-source.org/data-challenge/).
 - More [information about the hack week](/about/).
+- Sagan Workshop Talks
+
 
 # Public Code
 
