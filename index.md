@@ -31,7 +31,7 @@ including links to public tools and datasets.
 # Logistics
 
 The Hack Session will be held **January 28, 2019 -- February 1, 2019 at the [Center for Computational
-Astrophysics](/https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/) in New York City**.
+Astrophysics](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/) in New York City**.
 
 
 The first 3 days will be joint with the 23rd Microlensing Workshop and
