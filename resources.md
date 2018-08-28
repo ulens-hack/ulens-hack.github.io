@@ -15,13 +15,13 @@ permalink: /resources/
 
 ## [MulensModel](https://github.com/rpoleski/MulensModel/)
 
-Paper: (https://arxiv.org/abs/1803.01003/)
+[Paper](https://arxiv.org/abs/1803.01003/)
 
-Latest stable version: (https://github.com/rpoleski/MulensModel/releases/tag/v1.4.0/)
+[Latest stable version](https://github.com/rpoleski/MulensModel/releases/tag/v1.4.0/)
 
 ## [PyLIMA](https://github.com/ebachelet/pyLIMA/)
 
-Paper: (http://iopscience.iop.org/article/10.3847/1538-3881/aa911c/meta/)
+[Paper](http://iopscience.iop.org/article/10.3847/1538-3881/aa911c/meta/)
 
 # Public Datasets
 
