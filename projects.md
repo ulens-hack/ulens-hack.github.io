@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-[Home](/home/)
+[Home](https://ulens-hack.github.io/)
 
 # Project Ideas
 

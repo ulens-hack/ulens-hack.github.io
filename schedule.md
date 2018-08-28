@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-[Home](/home/)
+[Home](https://ulens-hack.github.io/)
 
 # Schedule
 
