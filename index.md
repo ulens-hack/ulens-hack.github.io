@@ -37,7 +37,7 @@ Astrophysics](https://www.simonsfoundation.org/flatiron/center-for-computational
 The first 3 days will be joint with the 23rd Microlensing Workshop and
 will provide an introduction to outstanding problems and
 resources. The last two days will be devoted to hacking. A
-[preliminary schedule is available here](/schedule/).
+[tentative schedule is available here](/schedule/).
 
 To register for the Conference (including the Hack Session), please
 visit the main conference website (TBD).
