@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
+[Home](/home/)
+
 # Project Ideas
 
 # Modeling Complex Events: General

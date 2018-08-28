@@ -8,6 +8,8 @@
 # for a very quick cheat sheet on the Markdown syntax.
 
 layout: default
+title: Hack Session Home
+permalink: /home/
 ---
 
 # Welcome

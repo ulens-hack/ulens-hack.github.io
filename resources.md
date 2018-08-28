@@ -4,6 +4,8 @@ title: Resources
 permalink: /resources/
 ---
 
+[Home](/home/)
+
 # Useful links
 - The [Google Docs sheet](https://docs.google.com/document/d/1XviE8EQrYmBAgbucmlsP6APogf0_PFCnKwmNvHMzMAg/edit#).
 - The current [microlensing Data Challenge](http://microlensing-source.org/data-challenge/).
