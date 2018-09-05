@@ -10,6 +10,8 @@
 layout: default
 ---
 
+[Pages](/sitemap/)
+
 # Welcome
 
 This hack session will focus on unsolved problems in modeling
