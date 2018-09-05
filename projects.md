@@ -10,11 +10,18 @@ _This page will continue to be developed as the Hack Session approaches_
 
 # Project Ideas
 
+A sample of project ideas for the Hack Session. These are meant to be
+representative of the _types_ of problems people might be interested
+in working on and to help organize ideas about any leg-work that might
+be necessary prior to the Hack Session. Projects will be pitched at
+the Hack Session. Feel free to draw from this list or to pitch your
+own project.
+
 # Modeling Complex Events: General
 
 * * *
 
-## 2a. Solving Unsolved Events
+## Solving Unsolved Events
 
 #### Lead
 Radek Poleski
@@ -48,7 +55,7 @@ few simplifications. These are:
 
 * * *
 
-## 2d: Weighting Degenerate Solutions
+## Weighting Degenerate Solutions
 
 #### Lead
 Clement Ranc, David Bennett and volunteers?
@@ -104,7 +111,7 @@ Poleski+2018 (2018arXiv180500049P)
 
 * * *
 
-## Project 2b: Binary Lens Events in UKIRT and KMTNet
+## Binary Lens Events in UKIRT and KMTNet
 
 #### Leads
 Yossi Shvartzvald, Geoff Bryden, Valerio Bozza
@@ -138,7 +145,7 @@ from parallax effects.
 
 * * *
 
-## Project 4: Alternative algorithms for microlensing modeling
+## Alternative algorithms for microlensing modeling
 
 #### Lead
 Etienne Bachelet and friends
@@ -211,7 +218,7 @@ Thus, there are two distinct problems to work on.
 
 * * *
 
-## 3a: Triple Lenses: Calculating the Magnification
+## Triple Lenses: Calculating the Magnification
 
 #### Goal
 Discuss numerical methods to robustly solve the three-body lens
@@ -226,7 +233,7 @@ precision could really help.
 
 * * *
 
-## 3b: Triple Lenses: Finding All Relevant Solutions
+## Triple Lenses: Finding All Relevant Solutions
 
 #### Goal
 
@@ -272,7 +279,7 @@ at least release it to participants. These are:
 
 * * *
 
-## 1a. Ray-Shooting Algorithm
+## Ray-Shooting Algorithm
 
 #### Lead
 Radek Poleski
@@ -304,7 +311,7 @@ regions of those images.
 
 * * *
 
-## 1b. Map-making code
+## Map-making code
 
 #### Leads
 Radek Poleski and Jennifer Yee
@@ -352,7 +359,7 @@ size of the source.
 
 * * *
 
-## 1c. Jupyter Binary Fitting
+## Jupyter Binary Fitting
 
 #### Goal
 Create a _Jupyter_ notebook using _MulensModel_ that robustly finds
@@ -363,7 +370,7 @@ solutions to binary microlensing events.
 
 * * *
 
-## 2c: Create a Galaxy Zoo-type project for UKIRT data
+## Create a Galaxy Zoo-type project for UKIRT data
 
 #### Lead
 TBD
