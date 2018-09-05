@@ -48,9 +48,14 @@ Wednesday -- Friday. We will endeavor to make relevant introductory
 material available beforehand.
 
 To register for the Conference (including the Hack Session), please
-visit the main conference website (TBD).
+visit the main conference website (TBD). To receive a notification
+when registration opens, please [sign up for the ulens-hack GitHub
+organization](https://github.com/ulens-hack).
+
+# Guidelines for Collaboration
+
+Placeholder section for guidelines for collaboration, attribution, etc.
 
 # Be a Nice Person
 
-Placeholder section for guidelines for behavior, collaboration, and
-attribution, etc.
+Placeholder section for guidelines for behavior
