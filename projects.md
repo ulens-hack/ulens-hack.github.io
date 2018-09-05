@@ -275,6 +275,16 @@ at least release it to participants. These are:
 
 # Open Science Questions
 
+## Science Questions
+- Where is the snow line? 
+- What are the theoretical explanations for the planets we see?
+- What the theoretical expectations for what we should see?
+- Projecting known planet populations into WFIRST detection space.
+
+## Synergies with TESS, Gaia
+- How do microlensing planet populations compare with those inferred
+  (or to be inferred) with TESS or Gaia?
+
 # Developing Tools
 
 * * *
