@@ -6,6 +6,8 @@ permalink: /projects/
 
 [Home](https://ulens-hack.github.io/)
 
+_This page will continue to be developed as the Hack Session approaches_
+
 # Project Ideas
 
 # Modeling Complex Events: General

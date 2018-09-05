@@ -6,6 +6,8 @@ permalink: /schedule/
 
 [Home](https://ulens-hack.github.io/)
 
+_This page will continue to be developed as the Hack Session approaches_
+
 # Schedule
 
 A tentative draft schedule for the 23rd Microlensing Workshop
