@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-[Home](https://ulens-hack.github.io/)[Pages](/sitemap/)
+[Home](https://ulens-hack.github.io/)|[Pages](/sitemap/)
 
 _This page will continue to be developed as the Hack Session approaches_
 
