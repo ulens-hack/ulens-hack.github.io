@@ -12,15 +12,81 @@ _This page will continue to be developed as the Hack Session approaches_
 
 # Modeling Complex Events: General
 
+* * *
+
+## 2a. Solving Unsolved Events
+
+#### Lead
+Radek Poleski
+
+#### Goal
+One of the science projects for Microlensing Hack Session could
+be re-analysis of the events for which proper microlensing model was
+not found yet.
+
+#### Description
+For example, one of the binary microlensing events detected by Gaia, i.e.,
+Gaia16aye has very complicated light curve
+([Wyrzykowski et al. 2017](http://adsabs.harvard.edu/abs/2017MNRAS.465L.114W)).
+It shows four caustic crossings and two cusp approaches. The model
+that well explains all these features has not yet been found.
+
+I think Dave Bennett has additional data for ob04367=mb04033. This event
+was already published with OGLE data only
+([Jaroszynski et al. 2006](http://adsabs.harvard.edu/abs/2006AcA....56..307J))
+ and additional data suggest 2S2L or 1S3L model.
+
+In addition, there are a few events for which published models do not
+fully explain the observed light curves, but the models fitted had a
+few simplifications. These are:
+- **OGLE-2003-BLG-220** = **OGLE-1999-BLG-42** (Skowron et al. 2009),
+- **OGLE-2005-BLG-331** (Skowron et al. 2007),
+- **OGLE-2007-BLG-327** (Jaroszynski et al. 2010).
+
+#### Outstanding Issues
+- Obtaining data for these events
+
+* * *
+
 # Modeling Complex Events: Triple Lenses
 
 # Open Science Questions
 
 # Developing Tools
 
------------
+* * *
 
-## 1a. Map-making code
+## 1a. Ray-Shooting Algorithm
+
+#### Lead
+Radek Poleski
+
+#### Goal
+Write a module for _MulensModel_ to calculate the magnification
+using the ray-shooting method.
+
+#### Description
+One difficulty in accurately calculating the magnification of a finite
+source is to locate all of the images, especially if one or more of
+them is small. Using the ray-shooting method, we know that if one
+light ray falls on one side of the source and another one falls on the
+other side, there must be a light ray in between that falls directly
+on the source. A method that incorporates this information could
+result in gains in efficiency and accuracy over other methods by
+identifying all of the images and only shooting rays densely in the
+regions of those images.
+
+#### Outline of Work
+1. Write use cases.
+2. Write unit tests.
+3. Write module.
+
+#### Outstanding Issues
+- All of the issues listed for the Magnification Map Project.
+- The description needs to be written and revised by Radek.
+- We can't do both this and the Magnification Map because both require Radek.
+
+## 1b. Map-making code
 
 #### Leads
 Radek Poleski and Jennifer Yee
@@ -68,38 +134,6 @@ size of the source.
 
 * * *
 
-## 1b. Ray-Shooting Algorithm
-
-#### Lead
-Radek Poleski
-
-#### Goal
-Write a module for _MulensModel_ to calculate the magnification
-using the ray-shooting method.
-
-#### Description
-One difficulty in accurately calculating the magnification of a finite
-source is to locate all of the images, especially if one or more of
-them is small. Using the ray-shooting method, we know that if one
-light ray falls on one side of the source and another one falls on the
-other side, there must be a light ray in between that falls directly
-on the source. A method that incorporates this information could
-result in gains in efficiency and accuracy over other methods by
-identifying all of the images and only shooting rays densely in the
-regions of those images.
-
-#### Outline of Work
-1. Write use cases.
-2. Write unit tests.
-3. Write module.
-
-#### Outstanding Issues
-- All of the issues listed for the Magnification Map Project.
-- The description needs to be written and revised by Radek.
-- We can't do both this and the Magnification Map because both require Radek.
-
-* * *
-
 ## 1c. Jupyter Binary Fitting
 
 #### Goal
@@ -109,40 +143,3 @@ solutions to binary microlensing events.
 #### Notes
 - Maybe one for identifying point lenses that need more parameters?
 
-* * *
-
-## 2a. Solving Unsolved Events
-
-#### Lead
-Radek Poleski
-
-#### Goal
-One of the science projects for Microlensing Hack Session could
-be re-analysis of the events for which proper microlensing model was
-not found yet.
-
-#### Description
-For example, one of the binary microlensing events detected by Gaia, i.e.,
-Gaia16aye has very complicated light curve
-([Wyrzykowski et al. 2017](http://adsabs.harvard.edu/abs/2017MNRAS.465L.114W)).
-It shows four caustic crossings and two cusp approaches. The model
-that well explains all these features has not yet been found.
-
-I think Dave Bennett has additional data for ob04367=mb04033. This event
-was already published with OGLE data only
-([Jaroszynski et al. 2006](http://adsabs.harvard.edu/abs/2006AcA....56..307J))
- and additional data suggest 2S2L or 1S3L model.
-
-In addition, there are a few events for which published models do not
-fully explain the observed light curves, but the models fitted had a
-few simplifications. These are:
-- **OGLE-2003-BLG-220** = **OGLE-1999-BLG-42** (Skowron et al. 2009),
-- **OGLE-2005-BLG-331** (Skowron et al. 2007),
-- **OGLE-2007-BLG-327** (Jaroszynski et al. 2010).
-
-#### Outstanding Issues
-- Obtaining data for these events
-
-* * *
-
-## TODO: More projects
