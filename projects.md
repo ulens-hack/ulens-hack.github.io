@@ -44,7 +44,7 @@ own project.
 
 * * *
 
-## Solving Unsolved Events
+### Solving Unsolved Events
 
 #### Lead
 Radek Poleski
@@ -78,7 +78,7 @@ few simplifications. These are:
 
 * * *
 
-## Weighting Degenerate Solutions
+### Weighting Degenerate Solutions
 
 #### Lead
 Clement Ranc, David Bennett and volunteers?
@@ -134,7 +134,7 @@ Poleski+2018 (2018arXiv180500049P)
 
 * * *
 
-## Binary Lens Events in UKIRT and KMTNet
+### Binary Lens Events in UKIRT and KMTNet
 
 #### Leads
 Yossi Shvartzvald, Geoff Bryden, Valerio Bozza
@@ -168,7 +168,7 @@ from parallax effects.
 
 * * *
 
-## Alternative algorithms for microlensing modeling
+### Alternative algorithms for microlensing modeling
 
 #### Lead
 Etienne Bachelet and friends
