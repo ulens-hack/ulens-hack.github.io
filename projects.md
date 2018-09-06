@@ -17,8 +17,8 @@ be necessary prior to the Hack Session. Projects will be pitched at
 the Hack Session. Feel free to draw from this list or to pitch your
 own project.
 
-[Modeling Complex Events: General](#modeling-complex-events:-general) 
-[Modeling Complex Events: Triple Lenses](#modeling-complex-events:-triple-lenses)  
+[Modeling Complex Events: General](#modeling-complex-events-general) 
+[Modeling Complex Events: Triple Lenses](#modeling-complex-events-triple-lenses)  
 
 
 # Modeling Complex Events: General
