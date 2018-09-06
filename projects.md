@@ -18,6 +18,11 @@ the Hack Session. Feel free to draw from this list or to pitch your
 own project.
 
 [Modeling Complex Events: General](#modeling-complex-events-general) 
+- [Solving Unsolved Events](#solving-unsolved-events)
+- [Weighting Degenerate Solutions](#weighting-degenerate-solutions)
+- [Binary Lens Events in UKIRT and KMTNet](#binary-lens-events-in-ukirt-and-kmtnet)
+- [Alternative algorithms for microlensing modeling](#alternative-algorithms-for-microlensing-modeling)
+
 [Modeling Complex Events: Triple Lenses](#modeling-complex-events-triple-lenses)  
 
 
