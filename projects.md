@@ -17,11 +17,12 @@ be necessary prior to the Hack Session. Projects will be pitched at
 the Hack Session. Feel free to draw from this list or to pitch your
 own project.
 
-[Modeling Complex Events: General](#projects:general)
-[Modeling Complex Events: Triple Lenses](#projects:triple)
+[Modeling Complex Events: General](#projects:general) 
+[Modeling Complex Events: Triple Lenses](#projects:triple)  
 
 
 <a name="projects:general"></a>
+
 # Modeling Complex Events: General
 
 * * *
@@ -180,6 +181,7 @@ The pyLIMA team will provide the requirements.
 * * *
 
 <a name="projects:triple"></a>
+
 # Modeling Complex Events: Triple Lenses
 
 ## Overview
