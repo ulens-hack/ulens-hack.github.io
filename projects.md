@@ -24,7 +24,21 @@ own project.
 - [Alternative algorithms for microlensing modeling](#alternative-algorithms-for-microlensing-modeling)
 
 [Modeling Complex Events: Triple Lenses](#modeling-complex-events-triple-lenses)  
+- [Overview][#overview]
+- [Triple Lenses: Calculating the Magnification](#triple-lenses-calculating-the-magnification)
+- [Triple Lenses: Finding All Relevant Solutions](#triple-lenses-finding-all-relevant-solutions)
 
+[Open Science Questions](#open-science-questions)
+- [Science Questions](#science-questions)
+- [Synergies with TESS, Gaia](#synergies-with-tess-gaia)
+
+[Developing Tools](#developing-tools)
+- [Ray-Shooting Algorithm](#ray-shooting-algorithm)
+- [Map-making code](#map-making-code)
+- [Jupyter Binary Fitting](#jupyter-binary-fitting)
+- [Create a Galaxy Zoo-type project for UKIRT data](#create-a-galaxy-zoo-type-project-for-ukirt-data)
+
+* * *
 
 # Modeling Complex Events: General
 
