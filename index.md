@@ -56,7 +56,23 @@ organization](https://github.com/ulens-hack).
 
 # Guidelines for Collaboration
 
-Placeholder section for guidelines for collaboration, attribution, etc.
+To ensure transparency and openness, we have adopted the collaboration
+policy developed for the Gaia Sprints. This policy recommends that
+participants agree to the following:
+
+All participants will be expected to openly share their ideas, expertise,
+code, and interim results. Project development will proceed out in the open,
+among participants and in the world.
+
+Participants will be encouraged to change gears, start new collaborations,
+and combine projects. Any participant who contributes significantly to a
+project can expect co-authorship on resulting scientific papers, and any
+participant who gets significant contributions to a project is expected
+to include those contributors as co-authors.
+
+These rules make it inadvisable to bring proprietary data sets or
+proprietary code, unless the participant bringing such assets has the
+rights to open them or add collaborators.
 
 # Be a Nice Person
 
