@@ -28,6 +28,8 @@ _This page will continue to be developed as the Hack Session approaches_
 
 [Paper](http://iopscience.iop.org/article/10.3847/1538-3881/aa911c/meta/)
 
+## [MuLAn](https://github.com/muLAn-project/muLAn)
+
 # Public Datasets
 
 ## UKIRT microlensing survey
