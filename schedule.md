@@ -20,7 +20,7 @@ and Hack Session.
 
 |Tuesday||
 |-------|--|
-|9 AM - 4PM | Conference: Modeling of Individual Events and Survey Results|
+|9 AM - 4 PM | Conference: Modeling of Individual Events and Survey Results|
 |4 PM - 5 PM | Hack Session Introduction: Tutorials on Public Code and Public Data|
 
 |Wednesday||
@@ -31,8 +31,8 @@ and Hack Session.
 
 |Thursday||
 |--------|--|
-|9 - 5 PM | Hack Session|
+|9 AM - 5 PM | Hack Session|
 
 |Friday||
 |------|--|
-|9 - 5 PM | Hack Session|
+|9 AM - 5 PM | Hack Session|
