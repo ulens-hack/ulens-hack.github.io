@@ -18,11 +18,10 @@ _This page will continue to be developed as the Hack Session approaches_
 
 ## [MulensModel](https://github.com/rpoleski/MulensModel/)
 
-[Documentation](https://rpoleski.github.io/MulensModel/) includes a few tutorials. See also [examples/ directory](https://github.com/rpoleski/MulensModel/tree/master/examples) for codes that show how to fit the model, plot the model light curve, read data etc.
+[Documentation](https://rpoleski.github.io/MulensModel/) includes a few tutorials. See also [examples/ directory](https://github.com/rpoleski/MulensModel/tree/master/examples) for codes that show how to fit the model, plot the model light curve, read data etc. 
+For paper presenting the code [click here](https://arxiv.org/abs/1803.01003/) but note that there were many improvements since paper posting.
 
-[Latest release](https://github.com/rpoleski/MulensModel/releases/tag/v1.4.0/)
-
-[Paper](https://arxiv.org/abs/1803.01003/)
+[Latest release](https://github.com/rpoleski/MulensModel/releases/latest)
 
 ## [PyLIMA](https://github.com/ebachelet/pyLIMA/)
 
