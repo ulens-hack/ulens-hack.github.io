@@ -15,18 +15,18 @@ and Hack Session.
 
 |Monday||
 |------|-----|
-|9 AM - 4 PM | Conference: Reports from Surveys/Challenges faced by Future Missions|
-|4 PM - 5 PM | Hack Session Introduction: "Unsolved Problems in Microlensing"|
+|9 AM - 5 PM | Conference: Reports from Surveys/Challenges faced by Future Missions|
 
 |Tuesday||
 |-------|--|
-|9 AM - 4PM | Conference: Modeling of Individual Events and Survey Results|
-|4 PM - 5 PM | Hack Session Introduction: Tutorials on Public Code and Public Data|
+|9 AM - 5 PM | Conference: Modeling of Individual Events and Survey Results|
 
 |Wednesday||
 |---------|--|
-|9 AM - 2 PM | Conference: Theoretical Work in Microlensing|
-|2 PM - 3 PM | Break|
+|9 AM - Noon | Conference: Theoretical Work in Microlensing|
+|Noon - 1 PM | Break|
+|1 PM - 2 PM | Hack Session Introduction: "Unsolved Problems in Microlensing"|
+|2 PM - 3 PM | Hack Session Introduction: Tutorials on Public Code and Public Data|
 |3 PM - 5 PM | Hack Session begins: Introductions, Pitches, and Set-up|
 
 |Thursday||
