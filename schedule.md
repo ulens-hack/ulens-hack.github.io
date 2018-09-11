@@ -31,8 +31,8 @@ and Hack Session.
 
 |Thursday||
 |--------|--|
-|9 - 5 PM | Hack Session|
+|9 AM - 5 PM | Hack Session|
 
 |Friday||
 |------|--|
-|9 - 5 PM | Hack Session|
+|9 AM - 5 PM | Hack Session|

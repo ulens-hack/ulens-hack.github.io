@@ -50,31 +50,37 @@ own project.
 Radek Poleski
 
 #### Goal
-One of the science projects for Microlensing Hack Session could
-be re-analysis of the events for which proper microlensing model was
-not found yet.
+Finding the microlensing model that well fits the data is 
+a challenging problem. There are many types of degeneracies that have 
+already been found. Models of some of the events were published 
+and later better models were found. There are also events that 
+have not been published because the modeling efforts did not reveal 
+the model that well fits the data. In other cases, there are models with 
+significantly different properties and it is unclear which model is more 
+probable. It is possible that some physical effect was ignored in previous 
+modeling and including it will lead to significant improvement. 
+This project aims to find proper models for these unsolved events. 
 
 #### Description
-For example, one of the binary microlensing events detected by Gaia, i.e.,
-Gaia16aye has very complicated light curve
-([Wyrzykowski et al. 2017](http://adsabs.harvard.edu/abs/2017MNRAS.465L.114W)).
-It shows four caustic crossings and two cusp approaches. The model
-that well explains all these features has not yet been found.
 
-I think Dave Bennett has additional data for ob04367=mb04033. This event
-was already published with OGLE data only
-([Jaroszynski et al. 2006](http://adsabs.harvard.edu/abs/2006AcA....56..307J))
- and additional data suggest 2S2L or 1S3L model.
+We will focus on events for which significant modeling efforts were 
+already performed. The best-suited event is ob08270. We previously 
+considered other events, but it turns out they are already solved:
+Gaia16aye ([Wyrzykowski et al. 2017](http://adsabs.harvard.edu/abs/2017MNRAS.465L.114W))
+and 
+ob110417 ([Bachelet et al. 2018](https://arxiv.org/abs/1807.09354)). 
+We are looking for other unsolved events with non-proprietary datasets.
 
-In addition, there are a few events for which published models do not
-fully explain the observed light curves, but the models fitted had a
-few simplifications. These are:
-- **OGLE-2003-BLG-220** = **OGLE-1999-BLG-42** (Skowron et al. 2009),
-- **OGLE-2005-BLG-331** (Skowron et al. 2007),
-- **OGLE-2007-BLG-327** (Jaroszynski et al. 2010).
+[The Data Analysis Challenge](http://microlensing-source.org/data-challenge/) 
+is currently on-going. The submission deadline is 
+Oct 31. Before the hack session, we should now which events were particularly 
+problematic for challenge participants. For these events we will know 
+the correct model. We will search for the algorithm that does not 
+use this knowledge and finds correct model efficiently.
 
 #### Outstanding Issues
-- Obtaining data for these events
+- Obtaining data for unsolved events.
+- Finding problematic events in Data Challenge.
 
 * * *
 

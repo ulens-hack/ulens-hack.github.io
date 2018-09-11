@@ -9,7 +9,6 @@ permalink: /resources/
 _This page will continue to be developed as the Hack Session approaches_
 
 # Useful links
-- The [Google Docs sheet](https://docs.google.com/document/d/1XviE8EQrYmBAgbucmlsP6APogf0_PFCnKwmNvHMzMAg/edit#).
 - The current [microlensing Data Challenge](http://microlensing-source.org/data-challenge/).
 - More [information about the hack week](/about/).
 - Sagan Workshop Talks
@@ -19,15 +18,16 @@ _This page will continue to be developed as the Hack Session approaches_
 
 ## [MulensModel](https://github.com/rpoleski/MulensModel/)
 
-[Documentation](https://rpoleski.github.io/MulensModel/) includes a few tutorials. See also [examples/ directory](https://github.com/rpoleski/MulensModel/tree/master/examples) for codes that show how to fit the model, plot the model light curve, read data etc.
+[Documentation](https://rpoleski.github.io/MulensModel/) includes a few tutorials. See also [examples/ directory](https://github.com/rpoleski/MulensModel/tree/master/examples) for codes that show how to fit the model, plot the model light curve, read data etc. 
+For paper presenting the code [click here](https://arxiv.org/abs/1803.01003/) but note that there were many improvements since paper posting.
 
-[Latest release](https://github.com/rpoleski/MulensModel/releases/tag/v1.4.0/)
-
-[Paper](https://arxiv.org/abs/1803.01003/)
+[Latest release](https://github.com/rpoleski/MulensModel/releases/latest)
 
 ## [PyLIMA](https://github.com/ebachelet/pyLIMA/)
 
 [Paper](http://iopscience.iop.org/article/10.3847/1538-3881/aa911c/meta/)
+
+## [MuLAn](https://github.com/muLAn-project/muLAn)
 
 # Public Datasets
 
