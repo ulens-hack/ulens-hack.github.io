@@ -11,7 +11,15 @@ _This page will continue to be developed as the Hack Session approaches_
 # Useful links
 - The current [microlensing Data Challenge](http://microlensing-source.org/data-challenge/).
 - More [information about the hack week](/about/).
-- Sagan Workshop Talks
+
+## Sagan Workshop Talks
+- [Finding Planets with Microlensing - Calen Henderson]
+  (https://www.youtube.com/watch?v=wfw2gMjju8I) - An introduction to
+  observational microlensing (physics and practical observations)
+
+- [Microlensing Planets: Modeling and Unique Solutions - Jennifer Yee]
+  (https://www.youtube.com/watch?v=KYUIgVku-Ys) - Conceptual
+  introduction to the challenges of modeling microlensing events
 
 
 # Public Code
