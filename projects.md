@@ -17,6 +17,10 @@ be necessary prior to the Hack Session. Projects will be pitched at
 the Hack Session. Feel free to draw from this list or to pitch your
 own project.
 
+The listing below is more complete than the sidebar (depending on the
+size of your screen). However, the links may link to a point just past
+the heading (so you may need to scroll up a bit).
+
 [Modeling Complex Events: General](#modeling-complex-events-general) 
 - [Solving Unsolved Events](#solving-unsolved-events)
 - [Weighting Degenerate Solutions](#weighting-degenerate-solutions)

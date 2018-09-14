@@ -47,10 +47,11 @@ including ongoing challenges, which will provide a sense of the state
 of the field. However, it is not necessary to attend the conference in
 order to participate in the hack session.
 
-To register for the Conference and/or Hack Session, please
-visit the main conference website (TBD). To receive a notification
-when registration opens, please [sign up for the ulens-hack GitHub
-organization](https://github.com/ulens-hack).
+To register for the Conference and/or Hack Session, please visit the
+main conference website (TBD). To receive a notification when
+registration opens, please go to
+https://groups.google.com/d/forum/ulens-hack and click [apply for
+membership](https://groups.google.com/d/forum/ulens-hack).
 
 # Guidelines for Collaboration
 
