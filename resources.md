@@ -11,6 +11,7 @@ _This page will continue to be developed as the Hack Session approaches_
 # Useful links
 - The current [microlensing Data Challenge](http://microlensing-source.org/data-challenge/).
 - More [information about the hack week](/about/).
+- [Microlensing Source website](http://microlensing-source.org/) - check it if something is unclear, you need nice animation and lots of other stuff.
 
 ## Sagan Workshop Talks
 - [Finding Planets with Microlensing - Calen Henderson](https://www.youtube.com/watch?v=wfw2gMjju8I) - An introduction to
