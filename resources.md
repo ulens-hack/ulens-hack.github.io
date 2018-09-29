@@ -13,12 +13,10 @@ _This page will continue to be developed as the Hack Session approaches_
 - More [information about the hack week](/about/).
 
 ## Sagan Workshop Talks
-- [Finding Planets with Microlensing - Calen Henderson]
-  (https://www.youtube.com/watch?v=wfw2gMjju8I) - An introduction to
+- [Finding Planets with Microlensing - Calen Henderson](https://www.youtube.com/watch?v=wfw2gMjju8I) - An introduction to
   observational microlensing (physics and practical observations)
 
-- [Microlensing Planets: Modeling and Unique Solutions - Jennifer Yee]
-  (https://www.youtube.com/watch?v=KYUIgVku-Ys) - Conceptual
+- [Microlensing Planets: Modeling and Unique Solutions - Jennifer Yee](https://www.youtube.com/watch?v=KYUIgVku-Ys) - Conceptual
   introduction to the challenges of modeling microlensing events
 
 
