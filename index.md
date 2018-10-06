@@ -100,9 +100,11 @@ Please follow these guidelines:
 - Be kind to others. Do not insult or put down other
   attendees. Critique ideas, not people.
 
-- If participants wish to share photos or contents of talks/slides of
-any attendee or speaker on social media, we ask that they first get
-permission.
+- *Social Media Policy* If any attendee asks that something not be
+shared on social media, respect that request. If you are presenting
+anything that you do not want shared on social media, simply inform
+other participants clearly that they should not share it, for example,
+by putting the request on a slide at the beginning of the talk.
 
 Participants asked to stop any inappropriate behaviour are expected to
 comply immediately. Attendees violating these rules may be asked to
