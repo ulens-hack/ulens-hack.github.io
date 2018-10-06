@@ -32,7 +32,7 @@ including links to public tools and datasets.
 
 # Logistics
 
-Microlensing 23 will be held **January 28, 2019 -- February 1, 2019 at
+[Microlensing 23](https://microlensing.science/23/) will be held **January 28, 2019 -- February 1, 2019 at
 the [Center for Computational
 Astrophysics](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/)
 in New York City**. A scientific conference will be held the first 2.5
@@ -48,8 +48,8 @@ of the field. However, it is not necessary to attend the conference in
 order to participate in the hack session.
 
 To register for the Conference and/or Hack Session, please visit the
-main conference website (TBD). To receive a notification when
-registration opens, please go to
+main conference website (https://microlensing.science/23/). To receive
+a notification when registration opens, please go to
 https://groups.google.com/d/forum/ulens-hack and click [apply for
 membership](https://groups.google.com/d/forum/ulens-hack).
 
