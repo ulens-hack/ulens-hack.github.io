@@ -10,29 +10,49 @@ _This page will continue to be developed as the Hack Session approaches_
 
 # Schedule
 
-A tentative draft schedule for the 23rd Microlensing Workshop
-and Hack Session.
+Draft Schedule for the Hack Session associated with the [23rd
+Microlensing Converence] (https://microlensing.science/23/).
 
-|Monday||
-|------|-----|
-|9 AM - 5 PM | Conference: Reports from Surveys/Challenges faced by Future Missions|
+The hack session begins after lunch on Wednesday, January 30.
 
-|Tuesday||
-|-------|--|
-|9 AM - 5 PM | Conference: Modeling of Individual Events and Survey Results|
-
-|Wednesday||
+|Wednesday|||
 |---------|--|
-|9 AM - Noon | Conference: Theoretical Work in Microlensing|
-|Noon - 1 PM | Break|
-|1 PM - 2 PM | Hack Session Introduction: "Unsolved Problems in Microlensing"|
-|2 PM - 3 PM | Hack Session Introduction: Tutorials on Public Code and Public Data|
-|3 PM - 5 PM | Hack Session begins: Introductions, Pitches, and Set-up|
+|1:30 - 1:40 PM| Jennifer Yee & Dan Foreman-Mackey| "Welcome & Overview"|
+|Kick-off Talk:|
+|1:40 - 2:10 PM| David Bennett |"Unsolved Problems in Multiple-lens Microlensing"|
+|Public Data:|
+|2:10 - 2:25 PM| Calen Henderson |"NASA Exoplanet Archive"|
+|2:25 - 2:40 PM| Yossi Shvartzvald |"UKIRT & KMTNet & Other Datasets"|
+
+|Public Code:|
+|2:40 - 2:55 PM | Radek Poleski | "MulensModel" |
+|2:55 - 3:10 PM | Etienne Bachelet | "pyLIMA" |
+|3:10 - 3:25 PM | Clement Ranc | "muLAN" |
+
+|3:25 - 3:55 PM| Coffee Break||
+
+|3:55 - XXX |All |"Introductions and Project Pitches"|
+|XXX - 5:30 PM| All |  Mingle & start hacking |
+
+On Thursday and Friday, various breakout sessions will be organized
+based on participant input.
 
 |Thursday||
 |--------|--|
-|9 AM - 5 PM | Hack Session|
+|9 AM - 10:30AM | Hack Session|
+|10:30 AM - 11:00AM | Coffee Break|
+|11:00 AM - 12:30| Hack Session|
+|12:30 - 2:00PM | Lunch|
+|2:00 - 3:30 PM | Hack Session|
+|3:30 - 4:00 PM | Coffee|
+|4:00 - 5:30 PM | Hack Session|
 
 |Friday||
 |------|--|
-|9 AM - 5 PM | Hack Session|
+|9 AM - 10:30AM | Hack Session|
+|10:30 AM - 11:00AM | Coffee Break|
+|11:00 AM - 12:30| Hack Session|
+|12:30 - 2:00PM | Lunch|
+|2:00 - 3:30 PM | Hack Session|
+|3:30 - 4:00 PM | Coffee|
+|4:00 - 5:30 PM | Regroup & Present Results|
