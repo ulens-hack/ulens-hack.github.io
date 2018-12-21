@@ -11,7 +11,7 @@ _This page will continue to be developed as the Hack Session approaches_
 # Schedule
 
 Draft Schedule for the Hack Session associated with the [23rd
-Microlensing Converence] (https://microlensing.science/23/).
+Microlensing Conference](https://microlensing.science/23/).
 
 The hack session begins after lunch on Wednesday, January 30.
 
