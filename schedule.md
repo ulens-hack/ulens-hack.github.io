@@ -17,22 +17,18 @@ The hack session begins after lunch on Wednesday, January 30.
 
 |WEDNESDAY|||
 |---------|--|--|
-|1:30 - 1:40 PM| Jennifer Yee & Dan Foreman-Mackey| "Welcome & Overview"|
+|1:30 - 1:40 PM| Jennifer Yee & Dan Foreman-Mackey| Welcome & Overview|
 |Kick-off Talk:|
-|1:40 - 2:10 PM| David Bennett |"Unsolved Problems in Multiple-lens Microlensing"|
+|1:40 - 2:10 PM| David Bennett |Unsolved Problems in Multiple-lens Microlensing|
 |Public Data:|
-|---------|--|--|
-|2:10 - 2:25 PM| Calen Henderson |"NASA Exoplanet Archive"|
-|2:25 - 2:40 PM| Yossi Shvartzvald |"UKIRT & KMTNet & Other Datasets"|
+|2:10 - 2:25 PM| Calen Henderson |NASA Exoplanet Archive|
+|2:25 - 2:40 PM| Yossi Shvartzvald |UKIRT & KMTNet & Other Datasets|
 |Public Code:|
-|---------|--|--|
-|2:40 - 2:55 PM | Radek Poleski | "MulensModel" |
-|2:55 - 3:10 PM | Etienne Bachelet | "pyLIMA" |
-|3:10 - 3:25 PM | Clement Ranc | "muLAN" |
-|---------|--|--|
+|2:40 - 2:55 PM | Etienne Bachelet | pyLIMA |
+|2:55 - 3:10 PM | Radek Poleski | MulensModel |
+|3:10 - 3:25 PM | Clement Ranc | muLAN |
 |3:25 - 3:55 PM| Coffee Break| |
-|---------|--|--|
-|3:55 - XXX |All |"Introductions and Project Pitches"|
+|3:55 - XXX |All |Introductions and Project Pitches|
 |XXX - 5:30 PM| All |  Mingle & start hacking |
 
 On Thursday and Friday, various breakout sessions will be organized
