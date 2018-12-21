@@ -15,29 +15,30 @@ Microlensing Converence] (https://microlensing.science/23/).
 
 The hack session begins after lunch on Wednesday, January 30.
 
-|Wednesday|||
-|---------|--|
+|WEDNESDAY|||
+|---------|--|--|
 |1:30 - 1:40 PM| Jennifer Yee & Dan Foreman-Mackey| "Welcome & Overview"|
 |Kick-off Talk:|
 |1:40 - 2:10 PM| David Bennett |"Unsolved Problems in Multiple-lens Microlensing"|
 |Public Data:|
+|---------|--|--|
 |2:10 - 2:25 PM| Calen Henderson |"NASA Exoplanet Archive"|
 |2:25 - 2:40 PM| Yossi Shvartzvald |"UKIRT & KMTNet & Other Datasets"|
-
 |Public Code:|
+|---------|--|--|
 |2:40 - 2:55 PM | Radek Poleski | "MulensModel" |
 |2:55 - 3:10 PM | Etienne Bachelet | "pyLIMA" |
 |3:10 - 3:25 PM | Clement Ranc | "muLAN" |
-
-|3:25 - 3:55 PM| Coffee Break||
-
+|---------|--|--|
+|3:25 - 3:55 PM| Coffee Break| |
+|---------|--|--|
 |3:55 - XXX |All |"Introductions and Project Pitches"|
 |XXX - 5:30 PM| All |  Mingle & start hacking |
 
 On Thursday and Friday, various breakout sessions will be organized
 based on participant input.
 
-|Thursday||
+|THURSDAY||
 |--------|--|
 |9 AM - 10:30AM | Hack Session|
 |10:30 AM - 11:00AM | Coffee Break|
@@ -47,7 +48,7 @@ based on participant input.
 |3:30 - 4:00 PM | Coffee|
 |4:00 - 5:30 PM | Hack Session|
 
-|Friday||
+|FRIDAY||
 |------|--|
 |9 AM - 10:30AM | Hack Session|
 |10:30 AM - 11:00AM | Coffee Break|
