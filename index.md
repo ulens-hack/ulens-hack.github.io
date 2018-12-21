@@ -38,7 +38,7 @@ Astrophysics](https://www.simonsfoundation.org/flatiron/center-for-computational
 in New York City**. A scientific conference will be held the first 2.5
 days (Monday through Wednesday morning). The last 2.5 days (Wednesday
 afternoon through Friday) will be devoted to hacking.  [The draft
-schedule is available here](/schedule/).
+SCHEDULE is available here](/schedule/).
 
 Hack Session participants are welcome and encouraged to attend the
 full week to get a fully immersive introduction to microlensing. Many
