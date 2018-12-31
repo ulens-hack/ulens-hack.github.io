@@ -24,7 +24,6 @@ the heading (so you may need to scroll up a bit).
 [Modeling Complex Events: General](#modeling-complex-events-general) 
 - [Solving Unsolved Events](#solving-unsolved-events)
 - [Weighting Degenerate Solutions](#weighting-degenerate-solutions)
-- [Binary Lens Events in UKIRT and KMTNet](#binary-lens-events-in-ukirt-and-kmtnet)
 - [Alternative algorithms for microlensing modeling](#alternative-algorithms-for-microlensing-modeling)
 
 [Modeling Complex Events: Triple Lenses](#modeling-complex-events-triple-lenses)  
@@ -141,40 +140,6 @@ hierarchical bayesian algorithm, nested sampling or ...?
 #### References
 Bennett+2008 (2008ApJ...684..663B)
 Poleski+2018 (2018arXiv180500049P)
-
-* * *
-
-### Binary Lens Events in UKIRT and KMTNet
-
-#### Leads
-Yossi Shvartzvald, Geoff Bryden, Valerio Bozza
-
-#### Goal 
-Identify and solve binary microlensing events in the public
-UKIRT and KMTNet datasets.
-
-#### Description
-Recently, there have been two major releases of microlensing survey
-data: UKIRT and KMTNet. These datasets are rich and contain many
-unpublished microlensing events, including some two-body events. The
-goal is to identify microlensing events with more than one body and
-find a preliminary model. These models could be the starting point for
-one or more publications.
-
-This project could also be more focused: identify candidate events in
-specific categories, e.g. brown dwarf companions, mass measurements
-from parallax effects.
-
-#### Outline of Work:
-1. Identify interesting events
-2. Fit them
-
-#### Outstanding Issues:
-- Someone needs to compile a list of published events.
-- Modeling events requires significant computer resources.
-- Are we doing "by-eye" identification or using an algorithm?
-- Need a MulensModel and/or pyLIMA notebook for fitting
-- Might also need a data server and/or a way to quickly view many light curves.
 
 * * *
 
