@@ -48,10 +48,9 @@ of the field. However, it is not necessary to attend the conference in
 order to participate in the hack session.
 
 To register for the Conference and/or Hack Session, please visit the
-main conference website (https://microlensing.science/23/). To receive
-a notification when registration opens, please go to
-https://groups.google.com/d/forum/ulens-hack and click [apply for
-membership](https://groups.google.com/d/forum/ulens-hack).
+[main conference website](https://microlensing.science/23/). ***Note
+registration for the conference is now closed. However, you can still
+register for the hack session.
 
 # Guidelines for Collaboration
 
