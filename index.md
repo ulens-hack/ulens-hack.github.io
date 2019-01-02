@@ -20,6 +20,14 @@ microlensing workshop. The primary goal of the hack session is to
 engage people outside the traditional microlensing community in open
 problems in microlensing research.
 
+This field deals with the detection of planets in time-series
+photometric data. It is similar to Kepler transiting planet searches
+in the large number of datapoints (observational cadence of 1/15 min
+to 1/day for hundreds of millions of stars) and small number of true
+positives (dozens per year from the ground or hundreds from space). It
+differs from Kepler in that the signals, modeling, and likelihood
+surfaces are much more complex.
+
 Open problems include:
 * How to efficiently search a complex (non-Gaussian) multi-variate parameter space.
 * How to weight degenerate solutions?
