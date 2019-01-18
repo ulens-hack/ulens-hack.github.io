@@ -87,7 +87,7 @@ Python package astropy. In this case, the projects of most interest
 will provide opportunities for machine learning or data analysis
 experts to apply their expertise.
 
-**It is expected that microlensing participants will bring project(s)
+**It is expected that microlensing participants will bring projects
 or topics they would like to work on.** At the same time, they should
 also be open to allowing collaborations to take them in new
 directions.
