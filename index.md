@@ -119,7 +119,25 @@ leave the event at the sole discretion of the organizers without a
 refund of any charge.
 
 Any participant who wishes to report a violation of this policy is
-asked to speak, in confidence, to [TBD man] and [TBD woman].
+asked to speak, in confidence, to Calen Henderson
+<chenderson@ipac.caltech.edu> and/or Rachel Street
+<rstreet@lco.global>. The contact people are volunteers without formal
+training who can't give legal advice.  Their role is to provide
+support and to facilitate concerns being addressed.  Anyone with
+concerns is encouraged to speak to one of the contact people and may
+do so confidentially to request advice, which will be their personal
+interpretation and guidance.  Both the person reporting a concern and
+the contact person should write down a full description of their
+concern or incident as soon as possible after the event.  The contact
+person will not share that information with anyone without the
+permission of the person reporting a concern.  The contact person may,
+if the reporting person is willing and the contact person feels
+comfortable doing do, discuss the issue with someone named in the
+complaint and/or the other contact person. If so, these conversations
+should also be documented.  If the reporting person wishes to make a
+formal complaint, they or the contact person will contact
+<codeofconduct@simonsfoundation.org>, and provide the documentation
+described above.
 
 This code of conduct is based on the "London Code of Conduct", as
 originally designed for the conference "Accurate Astrophysics. Correct
