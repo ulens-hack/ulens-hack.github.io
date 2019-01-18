@@ -65,7 +65,9 @@ for likelihood maximization, and strategies for computational
 challenges related to finding the roots of high-order complex
 polynomials.
 
-A hack session is meant to be freeform to allow collaborations to develop naturally. However, we anticipate two types of work will tend to dominate:
+A hack session is meant to be freeform to allow collaborations to
+develop naturally. However, we anticipate two types of work will tend
+to dominate:
 
 1. Open discussions of particular unsolved problems. 
 
@@ -73,7 +75,7 @@ To facilitate this, we will be organizing breakout sessions on
 Thursday and Friday based on topics brought by participants. These
 discussions will be about an hour in length, but may lead to further
 collaboration. An appropriate length for introducing a topic would be
-~5 minutes.
+5 minutes or less.
 
 2. Focused work (e.g., coding) on a specific project that can be
 completed in a two-day timeframe.
@@ -85,8 +87,8 @@ Python package astropy. In this case, the projects of most interest
 will provide opportunities for machine learning or data analysis
 experts to apply their expertise.
 
-*It is expected that microlensing participants will bring ideas of
-some project(s) they would like to work on.* At the same time, they
+**It is expected that microlensing participants will bring ideas of
+some project(s) they would like to work on.** At the same time, they
 should also be open to allowing collaborations to take them in new
 directions.
 
