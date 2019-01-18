@@ -20,20 +20,12 @@ microlensing workshop. The primary goal of the hack session is to
 engage people outside the traditional microlensing community in open
 problems in microlensing research.
 
-This field deals with the detection of planets in time-series
-photometric data. It is similar to Kepler transiting planet searches
-in the large number of datapoints (observational cadence of 1/15 min
-to 1/day for hundreds of millions of stars) and small number of true
-positives (dozens per year from the ground or hundreds from space). It
-differs from Kepler in that the signals, modeling, and likelihood
-surfaces are much more complex.
-
 Open problems include:
 * How to efficiently search a complex (non-Gaussian) multi-variate parameter space.
 * How to weight degenerate solutions?
 * Efficient computational methods for solving the triple lens equation
 
-See the [projects](/projects/) page for more detailed descriptions. 
+See [below](#what-is-the-purpose-of-the-hack-session-how-does-it-work) and the [projects](/projects/) page for more detailed descriptions. 
 
 The [resources](/resources/) page has a list of useful references
 including links to public tools and datasets.
@@ -59,6 +51,49 @@ To register for the Conference and/or Hack Session, please visit the
 [main conference website](https://microlensing.science/23/). ***Note
 registration for the conference is now closed. However, you can still
 register for the hack session.
+
+# What is the Purpose of the Hack Session? How Does it Work?
+
+A hack session is an opportunity for focused work on a particular
+problem. The goal is to foster novel solutions to problems by bringing
+together people with different areas of expertise. In this case, the
+goal is to bring together microlensing experts and their knowledge of
+modeling and analysis problems in the field with experts in machine
+learning, statistics, and mathematics and their knowledge of the
+latest techniques for large-scale time-series data analysis, methods
+for likelihood maximization, and strategies for computational
+challenges related to finding the roots of high-order complex
+polynomials.
+
+A hack session is meant to be freeform to allow collaborations to develop naturally. However, we anticipate two types of work will tend to dominate:
+
+1. Open discussions of particular unsolved problems. 
+
+To facilitate this, we will be organizing breakout sessions on
+Thursday and Friday based on topics brought by participants. These
+discussions will be about an hour in length, but may lead to further
+collaboration. An appropriate length for introducing a topic would be
+~5 minutes.
+
+2. Focused work (e.g., coding) on a specific project that can be
+completed in a two-day timeframe.
+
+For example, at one-day AAS hack sessions, participants have completed
+a range of projects from writing a Twitterbot to tweet flight
+information for the local airport to writing new modules for the
+Python package astropy. In this case, the projects of most interest
+will provide opportunities for machine learning or data analysis
+experts to apply their expertise.
+
+It is expected that microlensing participants will briing ideas of some project(s) they would like to work on. At the same time, they should also be open to allowing collaborations to take them in new directions.
+
+For those not familiar with microlensing, this field deals with the
+detection of planets in time-series photometric data. It is similar to
+Kepler transiting planet searches in the large number of datapoints
+(observational cadence of 1/15 min to 1/day for hundreds of millions
+of stars) and small number of true positives (dozens per year from the
+ground or hundreds from space). It differs from Kepler in that the
+signals, modeling, and likelihood surfaces are much more complex.
 
 # Guidelines for Collaboration
 
