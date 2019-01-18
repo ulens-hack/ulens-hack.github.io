@@ -188,13 +188,23 @@ Cosmology", held in London in July 2015.
 # Scientific Organizing Committee
 
 Jennifer Yee (Chair)
+
 Etienne Bachelet
+
 David Bennett
+
 Dan Foreman-Mackey
+
 Calen Henderson
+
 David Hogg
+
 Rodrigo Luger
+
 Radek Poleski 
+
 Clement Ranc
+
 Yossi Shvartzvald
+
 Rachel Street
