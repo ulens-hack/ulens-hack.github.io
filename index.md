@@ -156,7 +156,9 @@ refund of any charge.
 Any participant who wishes to report a violation of this policy is
 asked to speak, in confidence, to Calen Henderson
 <chenderson@ipac.caltech.edu> and/or Rachel Street
-<rstreet@lco.global>. The contact people are volunteers without formal
+<rstreet@lco.global>. 
+
+The contact people are volunteers without formal
 training who can't give legal advice.  Their role is to provide
 support and to facilitate concerns being addressed.  Anyone with
 concerns is encouraged to speak to one of the contact people and may
