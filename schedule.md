@@ -21,8 +21,7 @@ The hack session begins after lunch on Wednesday, January 30.
 |Kick-off Talk:|
 |1:40 - 2:10 PM| David Bennett |Unsolved Problems in Multiple-lens Microlensing|
 |Public Data:|
-|2:10 - 2:25 PM| Calen Henderson |NASA Exoplanet Archive|
-|2:25 - 2:40 PM| Yossi Shvartzvald |UKIRT & KMTNet & Other Datasets|
+|2:10 - 2:30 PM| Calen Henderson & Yossi Shvartzvald |NASA Exoplanet Archive, UKIRT, KMTNet, Other Datasets|
 |Public Code:|
 |2:40 - 2:55 PM | Etienne Bachelet | pyLIMA |
 |2:55 - 3:10 PM | Radek Poleski | MulensModel |
