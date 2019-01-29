@@ -23,11 +23,11 @@ The hack session begins after lunch on Wednesday, January 30.
 |Public Data:|
 |2:10 - 2:30 PM| Calen Henderson & Yossi Shvartzvald |NASA Exoplanet Archive, UKIRT, KMTNet, Other Datasets|
 |Public Code:|
-|2:40 - 2:55 PM | Etienne Bachelet | pyLIMA |
-|2:55 - 3:10 PM | Radek Poleski | MulensModel |
-|3:10 - 3:25 PM | Clement Ranc | muLAN |
-|3:25 - 3:55 PM| Coffee Break| |
-|3:55 - XXX |All |Introductions and Project Pitches|
+|2:30 - 2:45 PM | Etienne Bachelet | pyLIMA |
+|2:45 - 3:00 PM | Radek Poleski | MulensModel |
+|3:00 - 3:15 PM | Clement Ranc | muLAN |
+|3:15 - 3:45 PM| Coffee Break| |
+|3:45 - XXX |All |Introductions and Project Pitches|
 |XXX - 5:30 PM| All |  Mingle & start hacking |
 
 On Thursday and Friday, various breakout sessions will be organized
